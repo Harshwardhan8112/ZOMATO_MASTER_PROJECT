@@ -1,0 +1,11 @@
+##  API planning
+
+-Auth (sign in with email)
+-Foods (Get food based on Id)
+-Restaurants (to get all the restaurants and unique )
+-Menu
+-Order
+-Payments -> razorpay
+-Reviews
+-User-
+-Images
